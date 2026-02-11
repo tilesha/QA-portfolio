@@ -22,7 +22,7 @@ This repository contains **sample QA artifacts** test cases, bug reports, checkl
 
 ## 📌 Projects
 - 🧾 **Employee Form — QA Practical (Manual Testing)**  
-  [Employee Form/](EmployeeForm/) (Test cases, bug sheet, recommendations, summary report)
+  [Employee Form/](Projects/EmployeeForm/) (Test cases, bug sheet, recommendations, summary report)
 ---
 
 ## 🧰 Skills & Tools
