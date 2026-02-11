@@ -41,6 +41,8 @@ QA-Portfolio/
 ├ Test_Reports/    # Test summary / execution reports
 ├ API_Testing/     # Sample API test notes + mock requests/responses
 ├ SQL_Queries/     # Sample queries used for validation
+└ Mindmaps/        # 
+```
 
 ---
 
@@ -55,3 +57,4 @@ QA-Portfolio/
 | 📊 Test Reports | [Test_Reports/](Test_Reports/) | Execution summary with results & risks |
 | 🔌 API Testing | [API_Testing/](API_Testing/) | Sample API checks + mock data |
 | 💾 SQL Queries | [SQL_Queries/](SQL_Queries/) | Basic queries for data validation |
+
