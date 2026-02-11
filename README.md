@@ -29,6 +29,7 @@ Manual QA testing including:
 - Bug reports
 - Recommendations
 - Test summary
+
 👉 [View Full Project](Projects/Employee%20Form/)
 
 Quick links:
