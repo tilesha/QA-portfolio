@@ -25,8 +25,13 @@ This repository contains **sample QA artifacts** test cases, bug reports, checkl
 - Manual Testing: Functional, Regression, Smoke, Exploratory  
 - Test design: Positive/Negative/Boundary scenarios  
 - Defect reporting: steps, expected vs actual, severity/priority, evidence  
-- Documentation: Excel / Google Sheets, Markdown  
-- Tools: Jira / Trello, Postman, GitHub
+- Documentation: Excel / Google Sheets, Markdown
+- MySQL - a relational database management system that is based on structured query language (SQL)  
+- Jira - a suite of agile work management solutions that powers collaboration across all teams from concept to customer  
+- Confluence - a team workspace where knowledge and collaboration meet  
+- GitHub - a code hosting platform for version control and collaboration  
+- GIT - a distributed version control system that tracks changes in any set of computer files  
+- Postman - an API platform for building and using APIs  
 
 ---
 
