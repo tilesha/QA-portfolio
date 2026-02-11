@@ -41,7 +41,7 @@ QA-Portfolio/
 ├ Test_Reports/    # Test summary / execution reports
 ├ API_Testing/     # Sample API test notes + mock requests/responses
 ├ SQL_Queries/     # Sample queries used for validation
-└ Mindmaps/        # 
+
 ```
 
 ---
