@@ -20,15 +20,22 @@ This repository contains **sample QA artifacts** test cases, bug reports, checkl
 
 ---
 
-## 📌 Projects
+## 🚀 Featured QA Project
 
-### 🧾 Employee Form — QA Practical (Manual Testing)
+### 🧾 Employee Form — QA Practical
 
-- 📂 Project Folder: [Employee-Form](Projects/Employee-Form)  
-- 📄 Test Cases Summary: [View Test Cases](Projects/Employee-Form-QA-Practical/TestCases_Summary.md)
-- 🐞 Bug Sheet Summary: [View Bug Reports](Projects/Employee-Form-QA-Practical/BugSheet_Summary.md)
-- 💡 Recommendations: [View Recommendations](Projects/Employee-Form-QA-Practical/Recommendations_Summary.md)
-- 📊 Test Plan & Report: Inside project folder
+Manual QA testing including:
+- Test cases
+- Bug reports
+- Recommendations
+- Test summary
+👉 [View Full Project](Projects/Employee%20Form/)
+
+Quick links:
+- 📄 [Test Cases Summary](Projects/Employee%20Form/TestCases_Summary.md)
+- 🐞 [Bug Sheet Summary](Projects/Employee%20Form/BugSheet_Summary.md)
+- 💡 [Recommendations](Projects/Employee%20Form/Recommendations_Summary.md)
+
 
 ---
 
