@@ -1,0 +1,32 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets / env (never upload)
+.env
+.env.*
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# If you later add Node automation
+node_modules/
+
+# If you later add Python automation
+__pycache__/
+.venv/
+venv/
