@@ -2,9 +2,8 @@
 
 Hi there! 👋 I’m **Tilesha Madulantha** — an aspiring **QA Intern** with a background in IT Support and customer issue handling.
 
-This repository contains **sample QA artifacts** (test cases, bug reports, checklists, and lightweight test docs) to demonstrate how I test, document issues, and validate fixes.
+This repository contains **sample QA artifacts** test cases, bug reports, checklists, and lightweight test docs to demonstrate how I test, document issues, and validate fixes.
 
-🔒 *All content is fictional or generalized to respect confidentiality (NDAs).*
 
 ---
 
@@ -27,7 +26,7 @@ This repository contains **sample QA artifacts** (test cases, bug reports, check
 - Test design: Positive/Negative/Boundary scenarios  
 - Defect reporting: steps, expected vs actual, severity/priority, evidence  
 - Documentation: Excel / Google Sheets, Markdown  
-- Tools (add only what you use): Jira / Trello, Postman (basics), GitHub
+- Tools: Jira / Trello, Postman, GitHub
 
 ---
 
@@ -42,8 +41,6 @@ QA-Portfolio/
 ├ Test_Reports/    # Test summary / execution reports
 ├ API_Testing/     # Sample API test notes + mock requests/responses
 ├ SQL_Queries/     # Sample queries used for validation
-└ Mindmaps/        # Optional (can add later)
-```
 
 ---
 
@@ -58,11 +55,3 @@ QA-Portfolio/
 | 📊 Test Reports | [Test_Reports/](Test_Reports/) | Execution summary with results & risks |
 | 🔌 API Testing | [API_Testing/](API_Testing/) | Sample API checks + mock data |
 | 💾 SQL Queries | [SQL_Queries/](SQL_Queries/) | Basic queries for data validation |
-
-> Tip: Start small. 30 test cases + 10 bug reports + 2 checklists is already enough for a strong QA Intern portfolio.
-
----
-
-## 🧾 License
-
-MIT (you can change this if you want).
