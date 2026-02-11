@@ -15,7 +15,7 @@ This repository contains **sample QA artifacts** test cases, bug reports, checkl
 
 - 📧 **Email:** tilesha.madulantha@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/tilesha-madulantha/  
-- 📍 **Location:** Sri Lanka  
+- 📍 **Location:** Sri Lanka
 - 🌐 **Languages:** English, Sinhala
 
 ---
@@ -30,28 +30,19 @@ This repository contains **sample QA artifacts** test cases, bug reports, checkl
 
 ---
 
-SOFT SKILLS
-🔎 precision and attention to quality
+## 🙅‍♀️ SOFT SKILLS
 
-🙌 communication and teamwork skills
+- 🔎 precision and attention to quality
+- 🙌 communication and teamwork skills
+- 💥 critical thinking
+- 📚 ability to learn new tools, systems and processes quickly
+- 💡 thinking outside the box
+- 📈 problem solving and analytical skills
+- 🚀 proactive attitude
+- 🔁 desire for self-development
+- 🔋 energetic and motivated
+- 📋 well-organized
 
-💥 critical thinking
-
-📚 ability to learn new tools, systems and processes quickly
-
-💡 thinking outside the box
-
-📈 problem solving and analytical skills
-
-🚀 proactive attitude
-
-🔁 desire for self-development
-
-🔋 energetic and motivated
-
-📋 well-organized
-
-🙅‍♀️ assertive
 
 ---
 
