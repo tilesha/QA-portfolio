@@ -30,6 +30,31 @@ This repository contains **sample QA artifacts** test cases, bug reports, checkl
 
 ---
 
+SOFT SKILLS
+🔎 precision and attention to quality
+
+🙌 communication and teamwork skills
+
+💥 critical thinking
+
+📚 ability to learn new tools, systems and processes quickly
+
+💡 thinking outside the box
+
+📈 problem solving and analytical skills
+
+🚀 proactive attitude
+
+🔁 desire for self-development
+
+🔋 energetic and motivated
+
+📋 well-organized
+
+🙅‍♀️ assertive
+
+---
+
 ## 📁 Repository Structure
 
 ```
