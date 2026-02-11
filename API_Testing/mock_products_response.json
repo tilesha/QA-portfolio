@@ -1,0 +1,37 @@
+{
+  "page": 1,
+  "limit": 5,
+  "total": 12,
+  "items": [
+    {
+      "id": 101,
+      "name": "Wireless Mouse",
+      "price": 12.99,
+      "inStock": true
+    },
+    {
+      "id": 102,
+      "name": "Wireless Keyboard",
+      "price": 24.5,
+      "inStock": true
+    },
+    {
+      "id": 103,
+      "name": "Wireless Headphones",
+      "price": 49.99,
+      "inStock": false
+    },
+    {
+      "id": 104,
+      "name": "Wireless Charger",
+      "price": 19.0,
+      "inStock": true
+    },
+    {
+      "id": 105,
+      "name": "Wireless Adapter",
+      "price": 9.99,
+      "inStock": true
+    }
+  ]
+}
