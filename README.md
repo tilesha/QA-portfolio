@@ -1,9 +1,8 @@
 # 🕵️‍♂️ Tilesha Madulantha — QA Intern Portfolio
 
-Hi there! 👋 I’m **Tilesha Madulantha** — an aspiring **QA Intern** with a background in IT Support and customer issue handling.
-
-This repository contains **sample QA artifacts** test cases, bug reports, checklists, and lightweight test docs to demonstrate how I test, document issues, and validate fixes.
-
+Hi there! 👋 I’m Tilesha Madulantha — a detail-oriented aspiring QA Engineer with a background in IT Support and real-world issue handling.
+This repository showcases structured QA artifacts including test cases, bug reports, checklists, and test documentation that reflect my practical understanding of manual testing and software quality assurance.
+Through systematic validation, boundary analysis, and defect reporting, I focus on identifying issues early, improving usability, and ensuring stable, reliable releases.
 
 ---
 
