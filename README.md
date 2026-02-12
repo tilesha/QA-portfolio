@@ -67,23 +67,6 @@ Quick links:
 - 🔋 energetic and motivated
 - 📋 well-organized
 
-
----
-
-## 📁 Repository Structure
-
-```
-QA-Portfolio/
-├ Test_Cases/      # Web + mobile sample test cases
-├ Bug_Reports/     # Bug reports in Markdown format
-├ Checklists/      # UI + regression checklists
-├ Test_Plans/      # Simple test plan examples
-├ Test_Reports/    # Test summary / execution reports
-├ API_Testing/     # Sample API test notes + mock requests/responses
-├ SQL_Queries/     # Sample queries used for validation
-
-```
-
 ---
 
 ## 📁 Explore QA Artifacts
