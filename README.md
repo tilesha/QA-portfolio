@@ -63,7 +63,6 @@ End-to-end manual testing of an employee management form.
 | 🗂️ Test_Plans | Scope, approach, entry & exit criteria |
 | 🧪 Test_Cases | Functional and boundary-based test scenarios |
 | 📊 Test_Reports | Execution summaries, defect metrics & release risk |
-| 💾 SQL_Queries | Data validation & database verification samples |
 
 ---
 
