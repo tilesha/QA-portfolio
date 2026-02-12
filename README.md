@@ -1,88 +1,101 @@
-# 🕵️‍♂️ Tilesha Madulantha — QA Intern Portfolio
+# 🕵️‍♂️ Tilesha Madulantha — QA Portfolio
 
-Hi there! 👋 I’m Tilesha Madulantha — a detail-oriented aspiring QA Engineer with a background in IT Support and real-world issue handling.
-This repository showcases structured QA artifacts including test cases, bug reports, checklists, and test documentation that reflect my practical understanding of manual testing and software quality assurance.
-Through systematic validation, boundary analysis, and defect reporting, I focus on identifying issues early, improving usability, and ensuring stable, reliable releases.
+Welcome to my Software Quality Assurance portfolio.
 
----
+I am an aspiring QA Engineer with a background in Software Engineering and IT Support, focused on structured manual testing, defect analysis, and validation processes.
 
-## 👤 About Me
-
-- 🎯 Target role: **QA Intern / Junior QA**
-- ✅ Strengths: attention to detail, clear documentation, issue reproduction, retesting & verification
-- 💡 Currently improving: test design, exploratory testing, API testing basics  
-
-- 🎓 Education:  
- ▪ B.Sc. (Hons) in Software Engineering — University of Plymouth (2025)  
- ▪ Information Technology — NIBM  
- ▪ NVQ Level 4 in Graphic Design — NAITA  
-
-- 📧 **Email:** tilesha.madulantha@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/tilesha-madulantha/  
-- 📍 **Location:** Sri Lanka
-- 🌐 **Languages:** English, Sinhala
+This repository showcases practical QA work including full test cycles, defect documentation, test planning, execution reporting, API validation, and SQL-based data verification.
 
 ---
 
-## 🚀 Featured QA Project
+## 🎯 Target Role
+QA Intern / Junior QA Engineer
+
+---
+
+## 🎓 Education
+- B.Sc. (Hons) in Software Engineering — University of Plymouth (2025)
+- Information Technology — NIBM
+- NVQ Level 4 in Graphic Design — NAITA
+
+---
+
+## 🧠 Testing Approach
+
+My testing methodology is based on:
+
+- Requirement-based test design
+- Positive / Negative / Boundary scenario coverage
+- Risk-based prioritization
+- Severity & Priority classification
+- Structured defect documentation
+- Regression validation before release
+
+I focus on identifying functional gaps, validation weaknesses, usability issues, and potential data inconsistencies early in the development lifecycle.
+
+---
+
+## 📊 Featured QA Project
 
 ### 🧾 Employee Form — QA Practical
 
-Manual QA testing including:
-- Test cases
-- Bug reports
-- Recommendations
-- Test summary
+End-to-end manual testing of an employee management form.
 
-👉 [View Full Project](Projects/Employee%20Form/)
+**Project Highlights:**
+- 32 Test Cases executed
+- 47 Defects identified
+- UI, Validation & Data handling issues documented
+- Structured recommendations provided
+- Test summary report with risk analysis
 
-Quick links:
-- 📄 [Test Cases Summary](Projects/Employee%20Form/TestCases_Summary.md)
-- 🐞 [Bug Sheet Summary](Projects/Employee%20Form/BugSheet_Summary.md)
-- 💡 [Recommendations](Projects/Employee%20Form/Recommendations_Summary.md)
+👉 [View Full Project](Projects/Employee-Form-QA-Practical/)
 
+---
+
+## 📦 Repository Sections
+
+| Section | Description |
+|----------|-------------|
+| 🔌 API_Testing | API validation scenarios, mock responses & request checks |
+| 🐞 Bug_Reports | Structured defect reports with reproduction steps |
+| ✅ Checklists | UI, regression & validation checklists |
+| 📁 Projects | Complete QA practical implementations |
+| 🗂️ Test_Plans | Scope, approach, entry & exit criteria |
+| 🧪 Test_Cases | Functional and boundary-based test scenarios |
+| 📊 Test_Reports | Execution summaries, defect metrics & release risk |
+| 💾 SQL_Queries | Data validation & database verification samples |
 
 ---
 
 ## 🧰 Skills & Tools
 
-- 🧪 **Manual Testing:** Functional, Regression, Smoke, Exploratory  
-- 🧩 **Test Design:** Positive / Negative / Boundary scenarios  
-- 🐞 **Defect Reporting:** Steps to reproduce, Expected vs Actual, Severity/Priority, Evidence  
-- 📝 **Documentation:** Excel / Google Sheets, Markdown  
-- 🛢️ **MySQL:** Relational database using SQL for data validation  
-- 🧾 **Jira:** Agile issue tracking and defect management  
-- 📚 **Confluence:** Team documentation and knowledge base  
-- 🐙 **GitHub:** Version control hosting and collaboration  
-- 🌿 **Git:** Distributed version control system  
-- 📮 **Postman:** API testing and request/response validation
+- 🧪 Manual Testing (Functional, Regression, Smoke, Exploratory)
+- 🧩 Test Design (Positive / Negative / Boundary Analysis)
+- 🐞 Defect Reporting (Severity, Priority, Evidence-based documentation)
+- 📮 API Testing (Postman)
+- 🛢️ SQL Validation (MySQL queries for data verification)
+- 🧾 Jira & Confluence
+- 🐙 Git & GitHub
+- 📝 Documentation (Excel, Google Sheets, Markdown)
 
 ---
 
-## 🙅‍♀️ SOFT SKILLS
+## 💡 Currently Improving
 
-- 🔎 precision and attention to quality
-- 🙌 communication and teamwork skills
-- 💥 critical thinking
-- 📚 ability to learn new tools, systems and processes quickly
-- 💡 thinking outside the box
-- 📈 problem solving and analytical skills
-- 🚀 proactive attitude
-- 🔁 desire for self-development
-- 🔋 energetic and motivated
-- 📋 well-organized
+- Exploratory testing techniques
+- API test scripting & validation
+- Advanced SQL joins & data auditing
+- Risk-based test prioritization
 
 ---
 
-## 📁 Explore QA Artifacts
+## 🌍 Contact
 
-| 📦 Section | 🔗 Link | 📝 Description |
-|---|---|---|
-| 🔌 API Testing | [API_Testing/](API_Testing/) | Sample API checks + mock data |
-| 📋 Bug Reports | [Bug_Reports/](Bug_Reports/) | Issue reports with clear reproduction steps |
-| ✅ Checklists | [Checklists/](Checklists/) | UI and regression validation guides |
-| 🧠 Mindmaps | [Mindmaps/](Mindmaps/) | QA logic flows and planning diagrams |
-| 📦 Projects | [Projects/](Projects/) | Real-world QA practical work showcasing full testing cycles, defect analysis, documentation, and reporting |
-| 🗂️ Test Plans | [Test_Plans/](Test_Plans/) | Scope, approach, and entry/exit criteria |
-| 🧪 Test Cases | [Test_Cases/](Test_Cases/) | Functional test cases with steps & expected outcomes |
-| 📊 Test Reports | [Test_Reports/](Test_Reports/) | Execution summary with results & risks |
+📧 tilesha.madulantha@gmail.com  
+🔗 https://www.linkedin.com/in/tilesha-madulantha/  
+📍 Sri Lanka  
+🌐 English | Sinhala  
+
+---
+
+🔒 All materials are created for educational and portfolio purposes and do not include confidential client information.
