@@ -32,9 +32,6 @@ Selected for Development
 - Platform: Web App  
 - SSO Provider: Google Workspace (staging)
 
-## Attachments  
-- [screenshot](link-to-screenshot) *Please note that no actual screenshot is provided.*
-- [log from Chrome DevTools](link-to-logFile) *Please note that no actual log is provided.*
 
 ## Labels  
 Triage, Auth, Integration
