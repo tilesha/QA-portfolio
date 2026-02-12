@@ -94,7 +94,7 @@ QA-Portfolio/
 | 📋 Bug Reports | [Bug_Reports/](Bug_Reports/) | Issue reports with clear reproduction steps |
 | ✅ Checklists | [Checklists/](Checklists/) | UI and regression validation guides |
 | 🧠 Mindmaps | [Mindmaps/](Mindmaps/) | QA logic flows and planning diagrams |
-| 💾 Projects | [Projects/](Projects/) | QA Related works |
+| 📦 Projects | [Projects/](Projects/) | Real-world QA practical work showcasing full testing cycles, defect analysis, documentation, and reporting |
 | 🗂️ Test Plans | [Test_Plans/](Test_Plans/) | Scope, approach, and entry/exit criteria |
 | 🧪 Test Cases | [Test_Cases/](Test_Cases/) | Functional test cases with steps & expected outcomes |
 | 📊 Test Reports | [Test_Reports/](Test_Reports/) | Execution summary with results & risks |
