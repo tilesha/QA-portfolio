@@ -9,7 +9,7 @@ This folder contains various mindmaps, diagrams, and cheat sheets that summarize
 ## 📁 File Index
 
 - [Bug_lifecycle.md](Bug_lifecycle.md) — stages of a bug from report to closure  
-- [Checklist_Mobile+Web_API.md](Checklist_Mobile+Web_API.md) — checklist for mobile, web UI, and API testing  
+- [Checklist_Mobile+Web_API.md](Checklist_Mobile_Web_API.md) — checklist for mobile, web UI, and API testing  
 - [Firebase_app_distribution_flow.md](Firebase_app_distribution_flow.md) — visual flow of app distribution via Firebase  
 - [Mindmap_Testing_Terms_EN.md](Mindmap_Testing_Terms_EN.md) — testing terms mindmap in English  
 - [Mobile_application_testing_mindmap.md](Mobile_application_testing_mindmap.md) — strategies and scope for mobile app testing  
