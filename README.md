@@ -12,10 +12,10 @@ Through systematic validation, boundary analysis, and defect reporting, I focus 
 - ✅ Strengths: attention to detail, clear documentation, issue reproduction, retesting & verification
 - 💡 Currently improving: test design, exploratory testing, API testing basics  
 
-- 🎓 Education:
- ➤ B.Sc. (Hons) in Software Engineering — University of Plymouth (2025)
- ➤ Information Technology — NIBM
- ➤ NVQ Level 4 in Graphic Design — NAITA
+- 🎓 Education:  
+ ➤ B.Sc. (Hons) in Software Engineering — University of Plymouth (2025)  
+ ➤ Information Technology — NIBM  
+ ➤ NVQ Level 4 in Graphic Design — NAITA  
 
 - 📧 **Email:** tilesha.madulantha@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/tilesha-madulantha/  
