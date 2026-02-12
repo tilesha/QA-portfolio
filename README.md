@@ -93,9 +93,6 @@ End-to-end manual testing of an employee management form.
 
 📧 tilesha.madulantha@gmail.com  
 🔗 https://www.linkedin.com/in/tilesha-madulantha/  
-📍 Sri Lanka  
+ 📍 Sri Lanka  
 🌐 English | Sinhala  
 
----
-
-🔒 All materials are created for educational and portfolio purposes and do not include confidential client information.
