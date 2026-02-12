@@ -9,11 +9,11 @@ The goal of this section is to provide practical, easy-to-use checklists that ca
 - ✅ During functional and non-functional testing  
 - 🚀 Before release preparation or deployment  
 - 🧠 As a quick reference for test planning  
-- 👋 As onboarding support for new QA engineers
 
 ## 📁 Available Checklists
 
-- [Login_Form_Checklist.md](Login_Form_Checklist.md) - checklist based on test cases from [Test-Cases/Web/Login_Form/](../Test_Cases/Web/Login_Form/) which covers login field validation, edge cases, session & token behavior
+- [Login_Form_Checklist.md](Login_Form_Checklist.md) - checklist based on test cases from
+- [Test-Cases/Web/Login_Form/](../Test_Cases/Web/Login_Form/) which covers login field validation, edge cases, session & token behavior
 - [Functional_Checklist.md](Functional_Checklist.md) - UI behavior, input validation, navigation flows, error handling  
 - [Accessibility_Checklist.md](Accessibility_Checklist.md) - screen reader compatibility, keyboard support, color contrast  
 - [Security_Checklist.md](Security_Checklist.md) - authentication, authorization, data exposure, injection risks  
@@ -24,6 +24,6 @@ The goal of this section is to provide practical, easy-to-use checklists that ca
 
 ## 🛠 Format & Usage
 
-All checklists are written in Markdown for readability and easy access in any code editor. Each item is grouped by category and optimized for cross-platform QA efforts (Web & Mobile). Use them as a foundation for your test plans or a final validation layer before release.
+All checklists are written in Markdown for readability and easy access in any code editor. Each item is grouped by category and optimized for cross-platform QA efforts. Use them as a foundation for your test plans or a final validation layer before release.
 
 👀 Stay consistent, test thoroughly, and ship with confidence.
