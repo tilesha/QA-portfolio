@@ -37,7 +37,6 @@ This folder contains documented software defects discovered during manual QA tes
 | **Reproduction Steps** | Step-by-step instructions to reproduce the issue                 |
 | **Expected Result** | What the system should have done                                        |
 | **Actual Result**   | What the system did instead                                             |
-| **Screenshots/Logs**| Supporting evidence (if available)                                      |
 | **Related Test Cases** | Links to relevant manual or automated tests                        |
 | **Reported On**     | Date the bug was documented                                             |
 | **Reported By**     | Name or ID of the QA analyst who filed the bug                         |
