@@ -3,7 +3,6 @@
 **Date:** 2026-02-11  
 **Scope:** Manual QA testing for an employee/application form (modules: Personal Info, Contact & IDs, Employment Info, Dropdowns, Validation, UI/Labels, Exit & Data Loss).  
 **Artifacts:** Test cases, bug reports, and recommendations (see `Artifacts/` and markdown summaries in this folder).  
-🔒 Content is generalized for portfolio and does not include confidential client data.
 
 ## Quick Summary
 
@@ -34,6 +33,3 @@
 - `Artifacts/Tilesha_Madulantha_QA_Practical_Test_ORDERED.xlsx` — original spreadsheet
 - `Screenshots/` — add evidence images here (optional)
 
-## Notes (How to present this in interviews)
-- Explain your approach: boundary testing, validation, expected vs actual, severity/priority reasoning.
-- If any items are *simulated*, label them clearly.
