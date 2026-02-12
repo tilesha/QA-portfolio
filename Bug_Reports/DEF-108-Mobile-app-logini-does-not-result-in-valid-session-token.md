@@ -32,10 +32,6 @@ Selected for Development
 - Backend: API v1.22.3  
 - Network: WiFi, stable connection
 
-## Attachments  
-- [mobile-login-debug-log.txt](link-to-log) *Missing actual log file*  
-- [screen-recording](link-to-video) *Video not provided, placeholder*
-
 ## Labels  
 Mobile, Auth, Security, Token Validation
 
