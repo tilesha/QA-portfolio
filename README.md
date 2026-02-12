@@ -90,8 +90,9 @@ End-to-end manual testing of an employee management form.
 
 ## 🌍 Contact
 
-📧 tilesha.madulantha@gmail.com  
-🔗 https://www.linkedin.com/in/tilesha-madulantha/  
- 📍 Sri Lanka  
-🌐 English | Sinhala  
+- 📧 tilesha.madulantha@gmail.com  
+- 🔗 https://www.linkedin.com/in/tilesha-madulantha/  
+- 📍 Sri Lanka  
+- 🌐 English | Sinhala
 
+---
