@@ -34,9 +34,6 @@ Selected for Development
 - Platform: Web App  
 - Account: test_user_expired_pwd
 
-## Attachments  
-- [screenshot](link-to-screenshot) *Placeholder, no image provided*  
-- [backend-log-snippet](link-to-log) *Log not attached*
 
 ## Labels  
 Login, Password Expiry, UX, Functional
