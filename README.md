@@ -5,6 +5,13 @@ This repository showcases practical QA work including complete test cycles, defe
 
 ---
 
+## 🎓 Education
+- B.Sc. (Hons) in Software Engineering — University of Plymouth (2025)
+- Information Technology — NIBM
+- NVQ Level 4 in Graphic Design — NAITA
+
+---
+
 ## 🎯 Career Goals
 Seeking opportunities as:
 
@@ -23,12 +30,6 @@ Seeking opportunities as:
 
 ---
 
-## 🎓 Education
-- B.Sc. (Hons) in Software Engineering — University of Plymouth (2025)
-- Information Technology — NIBM
-- NVQ Level 4 in Graphic Design — NAITA
-
----
 
 ## 🧠 Testing Methodology
 
