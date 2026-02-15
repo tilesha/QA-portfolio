@@ -120,13 +120,13 @@ Deliverables:
 ## 💼 QA Artifacts & Documentation
 
 Available in this repository:
-✅ Test Plans - Scope, approach, entry/exit criteria, resource planning
-✅ Test Scenarios - High-level test conditions for each module
-✅ Test Cases - Detailed step-by-step test procedures with expected results
-✅ Bug Reports - Structured defect documentation with reproduction steps
-✅ Test Summary Reports - Execution metrics, defect analysis, recommendations
-✅ Testing Checklists - Quick validation guides for various testing types
-✅ API Test Collections - Postman collections with validation rules
+- ✅ Test Plans - Scope, approach, entry/exit criteria, resource planning
+- ✅ Test Scenarios - High-level test conditions for each module
+- ✅ Test Cases - Detailed step-by-step test procedures with expected results
+- ✅ Bug Reports - Structured defect documentation with reproduction steps
+- ✅ Test Summary Reports - Execution metrics, defect analysis, recommendations
+- ✅ Testing Checklists - Quick validation guides for various testing types
+- ✅ API Test Collections - Postman collections with validation rules
 
 ---
 
