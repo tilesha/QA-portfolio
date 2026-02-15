@@ -1,4 +1,4 @@
-#🔍 Tilesha Madulantha — Quality Assurance Engineer  
+# 🔍 Tilesha Madulantha — Quality Assurance Engineer  
 
 **Software Engineering graduate specializing in Software Quality Assurance**, focused on delivering reliable systems through structured testing, defect analysis, and comprehensive validation processes.
 This repository showcases practical QA work including complete test cycles, defect documentation, test planning, execution reporting, API validation, and SQL-based data verification.
