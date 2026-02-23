@@ -48,7 +48,7 @@ I focus on identifying functional gaps, validation weaknesses, usability issues,
 
 ## 📊 Featured QA Project
 
-### 🐟 AquaID — Manual + API + Automation Testing
+### 🐟 AquaID — Manual + API
 Objective: Comprehensive quality validation of a Gemini AI-powered freshwater fish identification web application
 
 Project Scope:
@@ -70,7 +70,6 @@ Testing Results:
 - 🔴 Critical Issues: 3 (offline crash, unimplemented DELETE, no rate limiting)
 - 🟠 Major Issues: 11 (file validation, Safari audio, TTS persistence)
 - 🟡 Minor/Trivial Issues: 15 (UI feedback, filter state, confirmation dialogs)
-- 🤖 ~94 Automated Tests written in Python + Selenium WebDriver
 
 Key Findings:
 
@@ -89,7 +88,6 @@ Deliverables:
 - 29 Bug Reports (manual + API) with severity, priority, and reproduction steps
 - 20 Recommendations for fixes and improvements
 - Excel Test Reports (Manual + API) with auto-calculated metrics
-- Selenium + requests Python automation test suite (~94 tests)
 
 👉 [View Full Project](Projects/AquaID-QA/)
 
