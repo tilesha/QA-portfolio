@@ -8,6 +8,5 @@ Suggested naming convention:
 - `03_file_type_accepted.png` — BUG-004 PDF accepted by upload
 - `04_notes_not_refreshing.png` — BUG-009 notes card not updating
 - `05_no_confirmation_remove.png` — BUG-008 fish deleted without dialog
-- `06_safari_audio.png` — BUG-014 audio broken on Safari iOS
 - `07_api_delete_unimplemented.png` — API-BUG-003 DELETE not working
 - `08_compare_no_validation.png` — BUG-011 same fish compared
