@@ -1,4 +1,4 @@
-# AquaID — QA Project (Manual + API + Automation Testing)
+# AquaID — QA Project (Manual + API)
 
 **Date:** 2026-02-18  
 **Scope:** Comprehensive QA testing for AquaID, a freshwater fish identification web application powered by Gemini AI. Modules covered: Authentication, Fish Identification (AI upload), My Aquarium, Compare Fish, Explore & Articles, Nearby Aquariums, Profile, and all REST API endpoints.  
