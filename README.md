@@ -48,6 +48,51 @@ I focus on identifying functional gaps, validation weaknesses, usability issues,
 
 ## 📊 Featured QA Project
 
+### 🐟 AquaID — Manual + API + Automation Testing
+Objective: Comprehensive quality validation of a Gemini AI-powered freshwater fish identification web application
+
+Project Scope:
+
+- Authentication (Email/Password + Google SSO)
+- Fish Identification via AI Image Upload
+- My Aquarium — Personal Collection Management
+- Compare Fish — Side-by-side attribute comparison
+- Explore & Articles — AI-generated fish care content
+- Nearby Aquariums — Google Maps integration
+- REST API Endpoints — All 14 server routes tested
+
+Testing Results:
+
+- ✅ 57 Manual Test Cases designed and executed
+- ✅ 40 API Test Cases validated via Postman
+- 🐞 20 Manual Defects identified and documented
+- 🐞 9 API Defects identified and documented
+- 🔴 Critical Issues: 3 (offline crash, unimplemented DELETE, no rate limiting)
+- 🟠 Major Issues: 11 (file validation, Safari audio, TTS persistence)
+- 🟡 Minor/Trivial Issues: 15 (UI feedback, filter state, confirmation dialogs)
+- 🤖 ~94 Automated Tests written in Python + Selenium WebDriver
+
+Key Findings:
+
+- App crashes with white screen when network is offline during identification
+- DELETE /api/articles endpoint handler is not implemented — articles cannot be deleted
+- No rate limiting on AI article generation — Gemini API quota risk
+- File type and size not validated client-side — non-image files reach Gemini API
+- Audio player non-functional on Safari iOS
+- Fish notes card does not refresh after editing — stale UI state
+- No confirmation dialog before removing fish from aquarium
+
+Deliverables:
+
+- 57 Manual Test Cases with preconditions, steps, and expected results
+- 40 API Test Cases with request payloads and response validation
+- 29 Bug Reports (manual + API) with severity, priority, and reproduction steps
+- 20 Recommendations for fixes and improvements
+- Excel Test Reports (Manual + API) with auto-calculated metrics
+- Selenium + requests Python automation test suite (~94 tests)
+
+👉 [View Full Project](Projects/AquaID-QA/)
+
 ### 🧾 Employee Form — Comprehensive Manual Testing
 Objective: End-to-end quality validation of an employee management form application
 Project Scope:
