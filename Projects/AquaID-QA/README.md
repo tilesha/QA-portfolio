@@ -57,13 +57,6 @@
 
 ---
 
-### Test Automation
-
-- **Framework:** Python + Selenium WebDriver (Chrome)
-- **Total Automated Tests:** ~94
-- **Modules Covered:** Authentication, Fish Identification, My Aquarium, Compare Fish, Explore & Articles, API Endpoints
-
----
 
 ## Files
 
@@ -74,7 +67,6 @@
 - `Recommendations_Summary.md` — improvement recommendations
 - `Artifacts/AquaID_QA_Report.xlsx` — manual test cases, bug reports, and test summary (Excel)
 - `Artifacts/AquaID_API_Test_Report.xlsx` — API test cases, API bug reports, and API summary (Excel)
-- `Artifacts/AquaID_Selenium_Tests.zip` — Selenium + requests automation test suite
 - `Screenshots/` — add evidence screenshots here
 
 ---
